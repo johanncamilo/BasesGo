@@ -1,0 +1,36 @@
+# Directorios de dependencias
+vendor/
+
+# Archivos y carpetas creados por la compilación
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Directorios de compilación local
+bin/
+build/
+dist/
+
+# Archivos de configuración de IDE/editor
+.idea/
+.vscode/
+*.swp
+
+# Archivos de log y otros temporales
+*.log
+*.tmp
+*.cache
+*.bak
+*.old
+
+# Archivos y carpetas específicos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de mod y sum de Go (si decides no versionarlos)
+go.sum
+
